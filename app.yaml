@@ -1,0 +1,5 @@
+env_variables:
+  APP_KEY: base64:xEdW9G/cxeDxvG84YGkFQdO2siiZEFSu606g2pwsSH0=
+  APP_STORAGE: /tmp
+  VIEW_COMPILED_PATH: /tmp
+  SESSION_DRIVER: cookie
